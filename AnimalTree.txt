@@ -1,0 +1,21 @@
+Is it a mammal?
+Y Does it have hooves? 
+N Is it a reptile? 
+YY Does it give milk? 
+YN Is it a carnivore? 
+YYY Cow 
+YYN Does it have a horn? 
+YYNY Unicorn 
+YYNN Horse 
+YNY Is it in the dog family? 
+YNN can it be a pet? 
+YNYY Dog 
+YNYN Cat 
+YNNY Hamster 
+YNNN Does it have big ears?
+YNNNY Elephant
+YNNNN Mouse 
+NY is it fictional? 
+NN Mosquito 
+NYY Lion Turtle 
+NYN Crocodile 
